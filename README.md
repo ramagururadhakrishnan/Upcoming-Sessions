@@ -17,17 +17,23 @@
 #### Usage of Name and Affiliation
  
 ##### Long Version
+
+```
       Mr. Ramaguru Radhakrishnan
       Assistant Professor
       TIFAC-CORE in Cyber Security
       Amrita Vishwa Vidyapeetham
       Coimbatore
-      
+  ```
+  
  ##### Short Version
+ 
+ ```
       Mr. Ramaguru R
       Asst. Professor
       Amrita Vishwa Vidyapeetham
-      
+  ```    
+  
  #### Usage of Terms 
     
-     - Its Blockchain, not Block Chain or Block-Chain
+ - Its Blockchain, not Block Chain or Block-Chain
