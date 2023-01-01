@@ -24,15 +24,15 @@
   TIFAC-CORE in Cyber Security
   Amrita Vishwa Vidyapeetham
   Coimbatore
-    ```
+  ```
   
  ##### Short Version
  
-   ```
-    Mr. Ramaguru R
-    Asst. Professor
-    Amrita Vishwa Vidyapeetham
-    ```    
+ ```
+  Mr. Ramaguru R
+  Asst. Professor
+  Amrita Vishwa Vidyapeetham
+  ```    
   
  #### Usage of Terms 
     
